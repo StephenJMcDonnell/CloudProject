@@ -5,3 +5,5 @@ A new patient created: Jim Doyle
 A new patient created: Mary McDonnell
 A new patient created: Jack Doyle
 A new patient created: Ronan Holland
+A new patient created: Pat McGrath
+A new patient created: James McDermott
